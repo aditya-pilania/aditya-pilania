@@ -1,4 +1,5 @@
 """
+
 -👋 Hi, I’m @aditya-pilania
 -👀 I’m interested in data science, game development, and software development.
 -🌱 I’m currently learning data science with python and persuing Bachelor's of Computer Application final year student.
@@ -7,8 +8,4 @@
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I love solving puzzles, being the best in gully cricket, playing competetive eSports and have a knack for playing the guitar!
 
-# <!---
-# aditya-pilania/aditya-pilania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# You can click the Preview link to take a look at your changes.
-# --->
 """
