@@ -40,14 +40,11 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
 </p>
 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityapilania" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-pilania-7861851aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:adityapilaniaoffic@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/adityapilania" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/adityapilania24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
