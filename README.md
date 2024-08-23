@@ -53,7 +53,7 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
 </p>
 
 # 📝 Project Repository
-Check out my latest project: [**Customer Management System**](https://github.com/aditya-pilania/CustomerManagementSystem)  
+Check out my latest project: [**Customer Management System**](https://github.com/aditya-pilania/CMS)  
 *(Add a brief description of the project here if you like)*
 
 <p align="center">
