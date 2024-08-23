@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Pilania! 👋
 
-![Banner](C:/Users/adity/Downloads/github-header-image.png)
+![Header](./github-header-image.png)
 
 ## 🚀 About Me
 
