@@ -34,10 +34,6 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aditya%20Pilania&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pilania-7861851aa" target="_blank">
