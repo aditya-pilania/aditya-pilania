@@ -30,16 +30,6 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya%20Pilania&theme=date_night&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya%20Pilania&theme=date_night&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya%20Pilania&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya%20Pilania&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -53,13 +43,13 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
   <a href="https://www.linkedin.com/in/adityapilania" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adityapilania@gmail.com" target="_blank">
+  <a href="mailto:adityapilaniaoffic@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://twitter.com/adityapilania" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/adityapilania" target="_blank">
+  <a href="https://www.instagram.com/adityapilania24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/adityapilania" target="_blank">
