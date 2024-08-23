@@ -54,7 +54,7 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
 
 # 📝 Project Repository
 Check out my latest project: [**Customer Management System**](https://github.com/aditya-pilania/CMS)  
-*(Add a brief description of the project here if you like)*
+*in making of*
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
