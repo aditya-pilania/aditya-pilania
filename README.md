@@ -45,7 +45,7 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
   <a href="https://www.instagram.com/adityapilania24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/adityapilania" target="_blank">
+  <a href="https://github.com/aditya-pilania" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
