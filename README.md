@@ -73,7 +73,7 @@ I believe good tech should be **secure**, **accessible**, and **aesthetically pl
 </p>
 
 # 📂 Project Repository:
-Explore my latest initiative: [**Cherrish Homes – Orphanage Management System**](https://github.com/aditya-pilania/Cherrish-Homes)  
+Explore my latest initiative: [**Cherrish Homes – Orphanage Management System**](https://github.com/aditya-pilania/CherishHome)
 *Securing smiles through tech ❤️*
 
 <p align="center">
