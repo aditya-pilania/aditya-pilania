@@ -1,29 +1,36 @@
-# 👋 Hey, I am Aditya Pilania
+# 👋 Hey, I am Aditya Pilania  
 ### *Will always be helpful :)*
+
 # 💫 About Me:
-🔭 I’m currently working on:
-Enhancing my **Customer Management System (CMS)** with a more presentable UI and adding advanced features like a **scientific calculator**. I'm also focused on creating **applications** and **websites** that showcase my growing skills in **computer science**.
+🔭 I’m currently working on:  
+Building **Cherrish Homes** – a dynamic **Orphanage Management System** that bridges the gap between NGOs and individuals for **adoption**, **donation**, and **volunteering**, ensuring **security** and **genuine interactions** using **sentiment analysis** and **OTP verification**.
 
-👯 I’m looking to collaborate on:
-I'm eager to collaborate on projects that involve **web development**, **application design**, or any **innovative tech solutions**. If you're working on something that could benefit from a well-rounded approach to **UI/UX design** or **backend integration**, let's connect!
+👯 I’m looking to collaborate on:  
+Projects that involve **web development**, **cybersecurity**, **ethical hacking**, or innovative systems focused on **social impact**. If you're working on something meaningful or technically challenging, let's connect!
 
-🤝 I’m looking for help with:
-I'm looking for help with refining my CMS project, especially in areas like **optimizing MySQL data integration** or designing **responsive layouts** that work seamlessly across different resolutions.
+🤝 I’m looking for help with:  
+I'm open to support in areas like:
+- **Securing Django/PHP backends**  
+- **Integrating advanced authentication systems (SPF, DKIM, DMARC)**  
+- **Strengthening cybersecurity workflows in real-world applications**
 
-🌱 I’m currently learning:
-Diving deep into **Python** with a focus on **pymysql** for database interactions. I'm also exploring **game development** using **Unity** as a new skill. Continuous learning is key to staying ahead in the ever-evolving tech landscape.
+🌱 I’m currently learning:  
+Deep-diving into **cybersecurity**, **ethical hacking**, and **penetration testing**, while also strengthening my skills in **Python**, **MySQL**, and **native Android development**. I'm also exploring **Unity** for game development.
 
-💬 Ask me about:
-Ask me about my experiences in **building web applications**, **designing user interfaces**, or **integrating databases**. I’m also open to sharing tips on how to approach **learning new technologies** effectively.
+💬 Ask me about:  
+- **Web application security**  
+- **Cherrish Homes project**  
+- **MySQL and Python integration**  
+- **Backend logic and API security**  
+- **Learning roadmaps for ethical hacking and cybersecurity**
 
-⚡ Fun fact:
-I love merging functionality with aesthetics, ensuring that my projects are not just useful but also **visually appealing**.
+⚡ Fun fact:  
+I believe good tech should be **secure**, **accessible**, and **aesthetically pleasing** — function and design go hand in hand.
 
-# 💻 Tech Stack:
+# 🛠️ Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -33,7 +40,18 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-# ✍️ Random Dev Quote
+# 🛡️ Currently Exploring:
+- 🧠 Sentiment Analysis for user verification  
+- 🧪 Vulnerability testing and secure login flows  
+- 🧰 Cybersecurity fundamentals & practical application  
+- 🔐 OTP-based access control
+
+# ✨ GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-pilania&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+# ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
@@ -54,9 +72,9 @@ I love merging functionality with aesthetics, ensuring that my projects are not 
   </a>
 </p>
 
-# 📝 Project Repository
-Check out my latest project: [**Customer Management System**](https://github.com/aditya-pilania/CMS)  
-*in making of*
+# 📂 Project Repository:
+Explore my latest initiative: [**Cherrish Homes – Orphanage Management System**](https://github.com/aditya-pilania/Cherrish-Homes)  
+*Securing smiles through tech ❤️*
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
