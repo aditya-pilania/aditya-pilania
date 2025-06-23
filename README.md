@@ -2,11 +2,11 @@
 ### *Will always be helpful :)*
 
 # 💫 About Me:
-🔭 I’m currently working on:  
-Building **Cherrish Homes** – a dynamic **Orphanage Management System** that bridges the gap between NGOs and individuals for **adoption**, **donation**, and **volunteering**, ensuring **security** and **genuine interactions** using **sentiment analysis** and **OTP verification**.
+
+🛡️ I'm currently a **Cybersecurity Intern at Elevate Labs**, diving into **network scanning**, **packet analysis**, and **real-world vulnerability assessments** using tools like **Nmap**, **Wireshark**, and **Kali Linux**. This hands-on experience is strengthening my understanding of **cybersecurity principles** and **threat detection**.
 
 👯 I’m looking to collaborate on:  
-Projects that involve **web development**, **cybersecurity**, **ethical hacking**, or innovative systems focused on **social impact**. If you're working on something meaningful or technically challenging, let's connect!
+Projects involving **web development**, **cybersecurity**, **ethical hacking**, or anything focused on **social impact** or **technical innovation**. Let’s build something meaningful together!
 
 🤝 I’m looking for help with:  
 I'm open to support in areas like:
@@ -15,7 +15,7 @@ I'm open to support in areas like:
 - **Strengthening cybersecurity workflows in real-world applications**
 
 🌱 I’m currently learning:  
-Deep-diving into **cybersecurity**, **ethical hacking**, and **penetration testing**, while also strengthening my skills in **Python**, **MySQL**, and **native Android development**. I'm also exploring **Unity** for game development.
+Deep-diving into **cybersecurity**, **ethical hacking**, and **penetration testing**, while also sharpening my skills in **Python**, **MySQL**, **native Android development**, and **Unity** for game dev.
 
 💬 Ask me about:  
 - **Web application security**  
@@ -43,8 +43,10 @@ I believe good tech should be **secure**, **accessible**, and **aesthetically pl
 # 🛡️ Currently Exploring:
 - 🧠 Sentiment Analysis for user verification  
 - 🧪 Vulnerability testing and secure login flows  
-- 🧰 Cybersecurity fundamentals & practical application  
-- 🔐 OTP-based access control
+- 🧰 Cybersecurity fundamentals & real-world application  
+- 🔐 OTP-based access control  
+- 🌐 Packet analysis using **Wireshark**  
+- 🌍 Network reconnaissance using **Nmap**
 
 # ✨ GitHub Trophies:
 <p align="center">
@@ -73,7 +75,7 @@ I believe good tech should be **secure**, **accessible**, and **aesthetically pl
 </p>
 
 # 📂 Project Repository:
-Explore my latest initiative: [**Cherrish Homes – Orphanage Management System**](https://github.com/aditya-pilania/CherishHome)
+Explore my latest initiative: [**Cherrish Homes – Orphanage Management System**](https://github.com/aditya-pilania/CherishHome)  
 *Securing smiles through tech ❤️*
 
 <p align="center">
