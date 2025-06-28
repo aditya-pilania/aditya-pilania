@@ -3,25 +3,21 @@
 
 # 💫 About Me:
 
-🛡️ I'm currently a **Cybersecurity Intern at Elevate Labs**, diving into **network scanning**, **packet analysis**, and **real-world vulnerability assessments** using tools like **Nmap**, **Wireshark**, and **Kali Linux**. This hands-on experience is strengthening my understanding of **cybersecurity principles** and **threat detection**.
+🛡️ I'm currently a **Cybersecurity Intern at Elevate Labs**, diving into **network scanning**, **packet analysis**, and **real-world vulnerability assessments** using tools like **Nmap**, **Wireshark**, **OpenVas**, **Kali Linux** and **more**. This hands-on experience is strengthening my understanding of **cybersecurity principles** and **threat detection**.
 
 👯 I’m looking to collaborate on:  
-Projects involving **web development**, **cybersecurity**, **ethical hacking**, or anything focused on **social impact** or **technical innovation**. Let’s build something meaningful together!
+Projects involving **web development**, **cybersecurity**, **python development**, or anything focused on **social impact** or **technical innovation**. Let’s build something meaningful together!
 
-🤝 I’m looking for help with:  
-I'm open to support in areas like:
-- **Securing Django/PHP backends**  
-- **Integrating advanced authentication systems (SPF, DKIM, DMARC)**  
-- **Strengthening cybersecurity workflows in real-world applications**
+🤝 I'm open to support in areas like:
+- **Network Security, IT, How Cybersecurity is too Important**  
+- **More than any theoritical knowledge, I prefer practical knowledge**
+- **Will be a good mentor to someone in need**
 
 🌱 I’m currently learning:  
-Deep-diving into **cybersecurity**, **ethical hacking**, and **penetration testing**, while also sharpening my skills in **Python**, **MySQL**, **native Android development**, and **Unity** for game dev.
+Deep-diving into **cybersecurity**, **ethical hacking**, and **penetration testing**, while also I am shaping my skills and mindset to clear the CDS exam and proudly serve in the Indian Army.
 
-💬 Ask me about:  
-- **Web application security**  
-- **Cherrish Homes project**  
-- **MySQL and Python integration**  
-- **Backend logic and API security**  
+💬 Ask me about:   
+- **Cherrish Homes project**    
 - **Learning roadmaps for ethical hacking and cybersecurity**
 
 ⚡ Fun fact:  
@@ -39,14 +35,6 @@ I believe good tech should be **secure**, **accessible**, and **aesthetically pl
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-# 🛡️ Currently Exploring:
-- 🧠 Sentiment Analysis for user verification  
-- 🧪 Vulnerability testing and secure login flows  
-- 🧰 Cybersecurity fundamentals & real-world application  
-- 🔐 OTP-based access control  
-- 🌐 Packet analysis using **Wireshark**  
-- 🌍 Network reconnaissance using **Nmap**
 
 # ✨ GitHub Trophies:
 <p align="center">
